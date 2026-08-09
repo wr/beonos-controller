@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img width="80%" alt="Beonos Controller installed in a Beogram turntable" src="https://github.com/user-attachments/assets/237d9ede-a18f-458d-916e-78443cdc5632" />
+  <a href="https://youtu.be/ydfJdppEwTE"><img width="600" alt="YouTube player" src="https://github.com/user-attachments/assets/db79c0d7-7f2f-469a-bbb2-3c8fcd094ffc" /></a>
 </p>
 
 <p align="center">
